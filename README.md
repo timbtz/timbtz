@@ -11,7 +11,6 @@
 
 ![Location](https://img.shields.io/badge/Munich,%20Germany-30363D?style=for-the-badge&logo=googlemaps&logoColor=58A6FF)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tim-betz-358137345/)
-![Profile Views](https://komarev.com/ghpvc/?username=timbtz&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS)
 
 </div>
 
@@ -24,8 +23,7 @@ const tim = {
   role:    "B.Sc. Management & Technology @ TUM (Computer Engineering focus)",
   focus:   ["AI agents", "MCP servers", "agentic systems", "knowledge graphs"],
   building:"infrastructure where you describe intent and the system plans, validates & ships it",
-  current: ["Knowledge-graph engineering @ KI Reply",
-            "Agentic-systems research @ ETH Agentic Systems Lab"],
+  current: "Knowledge-graph engineering @ KI Reply",
   stack:   "Anthropic Claude Agent SDK · Model Context Protocol · n8n · Make.com",
   based:   "Munich, Germany 🇩🇪",
 };
@@ -120,7 +118,7 @@ I build **AI-native automation** and **agent memory systems** — primarily arou
 <tr>
 <td width="50%" valign="top">
 
-### 📈 [GraphRetr](https://github.com/timbtz/RL-on-codefunction-in-a-GraphRAG) · _ETH Agentic Systems Lab_
+### 📈 [GraphRetr](https://github.com/timbtz/RL-on-codefunction-in-a-GraphRAG)
 **RL that rewrites retrieval code over a frozen knowledge graph.** Loads STaRK-prime (129k nodes / 8.1M edges) into FalkorDB, then optimizes `search(q, G)` programs via program mutation and **multi-objective (Pareto) reward** over Recall@20 / MRR / nDCG — with MLflow tracking and checkpoint/resume.
 
 `Python` · `FalkorDB` · `MLflow` · `PyTorch` · `sentence-transformers`
@@ -138,21 +136,6 @@ I build **AI-native automation** and **agent memory systems** — primarily arou
 </table>
 
 > **Also:** a **RAG-powered lead-enrichment pipeline** — n8n orchestration + self-hosted Supabase (Postgres + pgvector) on a Hetzner VPS, feeding an LLM email-drafting agent.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=timbtz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=adbac7" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timbtz&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=adbac7" />
-
-<br/>
-
-<img height="170" src="https://streak-stats.demolab.com/?user=timbtz&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=adbac7&dates=8b949e&currStreakNum=adbac7&sideNums=adbac7" />
-
-</div>
 
 ---
 
