@@ -18,20 +18,14 @@
 
 ## 👋 About Me
 
-```ts
-const tim = {
-  role:      "B.Sc. Management & Technology @ TUM (Computer Engineering focus)",
-  focus:     ["agent memory", "temporal knowledge graphs",
-              "graph retrieval", "agentic orchestration"],
-  building:  "systems that give AI agents durable memory and learn to retrieve better over time",
-  current:   "Knowledge-graph engineering @ KI Reply",
-  interests: ["RL for retrieval", "multi-objective optimization", "auditable agent pipelines"],
-  stack:     "Claude Agent SDK · MCP · Graphiti · FalkorDB · FastAPI",
-  based:     "Munich, Germany 🇩🇪",
-};
-```
+I work on the **infrastructure layer of AI agents** — how they **remember**, how they **retrieve**, and how they **orchestrate** multi-step work without losing auditability. That means temporal knowledge graphs as agent memory, hybrid retrieval (vector + lexical + graph traversal), and reinforcement learning that optimizes the *retrieval program itself*. My recurring thesis: keep the deterministic parts deterministic, use LLMs surgically, and make **every decision traceable**.
 
-I work on the **infrastructure layer of AI agents** — how they **remember**, how they **retrieve**, and how they **orchestrate** multi-step work without losing auditability. That means temporal knowledge graphs as agent memory, hybrid retrieval (vector + lexical + graph traversal), and reinforcement learning that optimizes the *retrieval program itself*. Recurring thesis across my work: keep the deterministic parts deterministic, use LLMs surgically, and make **every decision traceable**.
+- 🎓 &nbsp;B.Sc. Management & Technology @ **TUM** — Computer Engineering focus
+- 🔭 &nbsp;Currently doing **knowledge-graph engineering @ KI Reply**
+- ⚡ &nbsp;Deep into temporal knowledge graphs, RL for retrieval, multi-objective optimization & auditable agent pipelines
+- 🤖 &nbsp;Coding agents I run daily: **Claude Code** & **Pi**
+- 🧰 &nbsp;Comfort zone: Claude Agent SDK · MCP · Graphiti · Neo4j · FalkorDB · FastAPI
+- 📍 &nbsp;Based in **Munich, Germany** 🇩🇪
 
 ---
 
@@ -51,11 +45,14 @@ I work on the **infrastructure layer of AI agents** — how they **remember**, h
 ![Claude Agent SDK](https://img.shields.io/badge/Claude%20Agent%20SDK-191919?style=for-the-badge&logo=anthropic&logoColor=D97757)
 ![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![FastMCP](https://img.shields.io/badge/FastMCP-009688?style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Pi](https://img.shields.io/badge/Pi%20Agent-30363D?style=for-the-badge)
 
 **Knowledge Graphs · Retrieval · ML**
 
 ![Graphiti](https://img.shields.io/badge/Graphiti-6E56CF?style=for-the-badge)
 ![FalkorDB](https://img.shields.io/badge/FalkorDB-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG%20%2F%20Hybrid%20Search-30363D?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -122,10 +119,10 @@ I work on the **infrastructure layer of AI agents** — how they **remember**, h
 
 <div align="center">
 
-![20VC](https://img.shields.io/badge/20VC-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
-![Latent Space](https://img.shields.io/badge/Latent%20Space-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+[![20VC](https://img.shields.io/badge/20VC-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/3j2KMcZTtgTNBKwtZBMHvl)
+[![Latent Space](https://img.shields.io/badge/Latent%20Space-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/2p7zZVwVF6Yk0Zsb4QmT7t)
 ![AI Engineer](https://img.shields.io/badge/AI%20Engineer-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
-![Founder Mode](https://img.shields.io/badge/Founder%20Mode-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+[![Founder Mode](https://img.shields.io/badge/Founder%20Mode-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/1I00imiolVQ4TxtBW0yOyW)
 
 </div>
 
