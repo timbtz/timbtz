@@ -1,11 +1,11 @@
 <!-- ====================== HEADER ====================== -->
 <a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=200&section=header&text=Tim%20Betz&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Building%20AI%20agents%20that%20turn%20language%20into%20running%20systems&descSize=18&descAlignY=58&animation=fadeIn" alt="Tim Betz" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=200&section=header&text=Tim%20Betz&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Agent%20memory,%20knowledge%20graphs%20%26%20retrieval%20optimization&descSize=18&descAlignY=58&animation=fadeIn" alt="Tim Betz" />
 </a>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=AI+Agent+Engineer+%26+Automation+Builder;Claude+Agent+SDK+%C2%B7+MCP+%C2%B7+Knowledge+Graphs;Python+%7C+TypeScript+%7C+FastAPI+%7C+n8n;Turning+natural+language+into+live+systems)](https://github.com/timbtz)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Agentic+Systems+Engineer;Agent+Memory+%C2%B7+Temporal+Knowledge+Graphs;Graph+Retrieval+%C2%B7+RL+%C2%B7+Multi-objective+Optimization;Python+%7C+TypeScript+%7C+FalkorDB+%7C+PyTorch)](https://github.com/timbtz)
 
 <br/>
 
@@ -20,16 +20,18 @@
 
 ```ts
 const tim = {
-  role:    "B.Sc. Management & Technology @ TUM (Computer Engineering focus)",
-  focus:   ["AI agents", "MCP servers", "agentic systems", "knowledge graphs"],
-  building:"infrastructure where you describe intent and the system plans, validates & ships it",
-  current: "Knowledge-graph engineering @ KI Reply",
-  stack:   "Anthropic Claude Agent SDK · Model Context Protocol · n8n · Make.com",
-  based:   "Munich, Germany 🇩🇪",
+  role:      "B.Sc. Management & Technology @ TUM (Computer Engineering focus)",
+  focus:     ["agent memory", "temporal knowledge graphs",
+              "graph retrieval", "agentic orchestration"],
+  building:  "systems that give AI agents durable memory and learn to retrieve better over time",
+  current:   "Knowledge-graph engineering @ KI Reply",
+  interests: ["RL for retrieval", "multi-objective optimization", "auditable agent pipelines"],
+  stack:     "Claude Agent SDK · MCP · Graphiti · FalkorDB · FastAPI",
+  based:     "Munich, Germany 🇩🇪",
 };
 ```
 
-I build **AI-native automation** and **agent memory systems** — primarily around the **Claude Agent SDK** and the **Model Context Protocol (MCP)**. Most of my projects share a thesis: keep the deterministic parts deterministic, use LLMs surgically, and make every decision **auditable**.
+I work on the **infrastructure layer of AI agents** — how they **remember**, how they **retrieve**, and how they **orchestrate** multi-step work without losing auditability. That means temporal knowledge graphs as agent memory, hybrid retrieval (vector + lexical + graph traversal), and reinforcement learning that optimizes the *retrieval program itself*. Recurring thesis across my work: keep the deterministic parts deterministic, use LLMs surgically, and make **every decision traceable**.
 
 ---
 
@@ -44,30 +46,27 @@ I build **AI-native automation** and **agent memory systems** — primarily arou
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**AI · Agents · Retrieval**
+**AI Agents · MCP**
 
-![Anthropic](https://img.shields.io/badge/Claude%20Agent%20SDK-191919?style=for-the-badge&logo=anthropic&logoColor=D97757)
+![Claude Agent SDK](https://img.shields.io/badge/Claude%20Agent%20SDK-191919?style=for-the-badge&logo=anthropic&logoColor=D97757)
 ![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![FastMCP](https://img.shields.io/badge/FastMCP-009688?style=for-the-badge)
+
+**Knowledge Graphs · Retrieval · ML**
+
 ![Graphiti](https://img.shields.io/badge/Graphiti-6E56CF?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-30363D?style=for-the-badge)
+![FalkorDB](https://img.shields.io/badge/FalkorDB-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20%2F%20Hybrid%20Search-30363D?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-**Backend · Data · Graph**
+**Backend · Infra**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![FalkorDB](https://img.shields.io/badge/FalkorDB-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**Frontend · Automation · Infra**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-1A1A1A?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -82,18 +81,18 @@ I build **AI-native automation** and **agent memory systems** — primarily arou
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [Agent Harness](https://github.com/timbtz/Agent-harness)
-**Persistent memory for AI coding agents.** An open-source MCP server that captures decisions, insights and architecture as a **temporal knowledge graph** (Graphiti + FalkorDB), so Claude Code starts every session already knowing what happened before. Hybrid recall (cosine + BM25 + graph BFS via RRF) and a **Three.js time-scrubber** to replay the graph at any past date.
+### 📈 [GraphRetr](https://github.com/timbtz/RL-on-codefunction-in-a-GraphRAG)
+**RL that rewrites the retrieval program itself.** Loads STaRK-prime (129k nodes / 8.1M edges) into FalkorDB with per-type vector indexes, then mutates chains of 7 retrieval DSL primitives (`search` · `rerank` · `filter` · `expand` · …) to improve `search(q, G)`. Scored by **multi-objective Pareto reward** over Recall@20 / MRR / nDCG with **MAP-Elites** archiving — graph and LLM weights stay frozen, only the program evolves. MLflow tracking + checkpoint/resume.
 
-`TypeScript` · `Python` · `FastMCP` · `Graphiti` · `FalkorDB` · `React Three Fiber`
+`Python` · `FalkorDB` · `PyTorch` · `MLflow` · `sentence-transformers`
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ [Make Vibecoder](https://github.com/timbtz/make-vibecoder)
-**Describe an automation, get a live Make.com scenario.** A full AI-native automation-engineering stack: a context-efficient MCP server (~50-line tool outputs vs 120–200 raw), 266 blueprint templates + 502 indexed module examples, a **5-pass offline validator**, and auto-healing deployment. Published to npm as `make-mcp-server`.
+### 🧠 [Agent Harness](https://github.com/timbtz/Agent-harness)
+**Durable, structured memory for AI coding agents.** An open-source MCP server that extracts decisions and architecture into a **temporal knowledge graph** (Graphiti + FalkorDB), so Claude Code starts each session aware of what came before. Recall fuses **cosine + BM25 + graph BFS** via reciprocal-rank fusion; async extraction with per-project graph isolation; a **React Three Fiber time-scrubber** replays the graph at any past date.
 
-`TypeScript` · `Claude Agent SDK` · `MCP` · `SQLite FTS5` · `Zod`
+`TypeScript` · `Python` · `FastMCP` · `Graphiti` · `FalkorDB` · `RRF`
 
 </td>
 </tr>
@@ -101,7 +100,7 @@ I build **AI-native automation** and **agent memory systems** — primarily arou
 <td width="50%" valign="top">
 
 ### 🔬 [Agnes](https://github.com/timbtz/Spherecast-Agnes) · _TUM.ai × Spherecast_
-**Agentic supply-chain intelligence for supplement brands.** Enriches SKU/BOM data against 6 public bio/chem APIs (PubChem, DSLD, openFDA, GLEIF, USDA FDC, Molport), then finds cross-company consolidation opportunities via **declarative YAML DAG pipelines**. Compound-intent routing, a 4-state compliance gate, and an optional ElevenLabs voice UI.
+**Agentic supply-chain intelligence.** A **YAML-defined DAG orchestration engine** (Kahn topological sort + asyncio parallelism) runs enrichment against 6 bio/chem APIs, then mines cross-company consolidation opportunities. Compound-intent routing fans one query into parallel pipelines with independent SSE streams; a 4-state compliance gate and event-sourced log make every recommendation auditable.
 
 `Python` · `FastAPI` · `React` · `Claude` · `Gemini` · `SQLite`
 
@@ -109,33 +108,26 @@ I build **AI-native automation** and **agent memory systems** — primarily arou
 <td width="50%" valign="top">
 
 ### 💶 [Fingent](https://github.com/timbtz/HEC-Paris) · _Paris Fintech Hackathon_
-**AI-assisted accounting that stays auditable.** A YAML-driven DAG executor that books every transaction via deterministic rules, cached lookups, then Claude — recording *how* (rule/cache/AI-confidence) and *by whom* for each decision. Self-improving **rule wiki**, integer-cent ledger, and one `GROUP BY` to attribute any vendor invoice.
+**Deterministic-first, auditable AI accounting.** A YAML-driven DAG executor books each transaction via rules → cache → Claude, recording *how* (rule / cache / AI-confidence) and *by whom*. A self-improving **rule wiki** with **prompt-hash invalidation** maps a policy edit to exactly the agent calls it affects; an invariant checker enforces hard ledger guarantees on an integer-cent store.
 
 `Python` · `FastAPI` · `Claude` · `shadcn/ui` · `Swan API` · `SQLite`
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 [GraphRetr](https://github.com/timbtz/RL-on-codefunction-in-a-GraphRAG)
-**RL that rewrites retrieval code over a frozen knowledge graph.** Loads STaRK-prime (129k nodes / 8.1M edges) into FalkorDB, then optimizes `search(q, G)` programs via program mutation and **multi-objective (Pareto) reward** over Recall@20 / MRR / nDCG — with MLflow tracking and checkpoint/resume.
-
-`Python` · `FalkorDB` · `MLflow` · `PyTorch` · `sentence-transformers`
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 [Celonis × Make × Claude](https://github.com/timbtz/Celonis-analyst-Flow-via-Make.com-)
-**Ask O2C process-mining questions in Slack.** A two-scenario agent: a Knowledge-Model auto-discovery flow generates a system prompt from live Celonis data, and a Slack query agent answers KPI questions against it in natural language.
-
-`Make.com` · `Celonis` · `Claude Sonnet` · `Slack` · `Google Sheets`
-
-</td>
-</tr>
 </table>
 
-> **Also:** a **RAG-powered lead-enrichment pipeline** — n8n orchestration + self-hosted Supabase (Postgres + pgvector) on a Hetzner VPS, feeding an LLM email-drafting agent.
+---
+
+## 🎧 In My Ears
+
+<div align="center">
+
+![20VC](https://img.shields.io/badge/20VC-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+![Latent Space](https://img.shields.io/badge/Latent%20Space-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+![AI Engineer](https://img.shields.io/badge/AI%20Engineer-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+![Founder Mode](https://img.shields.io/badge/Founder%20Mode-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+
+</div>
 
 ---
 
